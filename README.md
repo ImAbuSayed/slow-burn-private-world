@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burn-private-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Slow Burn Private World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-private-world/) |
+| **Get License** | [Request Licensing for Slow Burn Private World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-private-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire pulling me closer tonight
+> The way your shadow dances in the amber light
+> We built a secret hidden in the evening breeze
+> Just come a little closer and stay with me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
