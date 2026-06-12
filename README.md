@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burn-private-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Slow Burn Private World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-private-world/) |
+| **Get License** | [License this song: Slow Burn Private World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burn-private-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0aab003ef1bef6c2a2b23a45311eba6d3ddd02e213452cec06557126fdbd422e` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

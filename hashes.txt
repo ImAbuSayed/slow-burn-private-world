@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Burn Private World
+
+This log tracks the cryptographic history and versioning for the song **Slow Burn Private World** (slow-burn-private-world).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T02:16:41.857492 | `v1` | `0aab003ef1bef6c2a2b23a45311eba6d3ddd02e213452cec06557126fdbd422e` | `1a9dc3f1ff3b4aa115a9d61b53b13680cf4c8d93b22cdbdd07fdbda707b8e8f3` | `2026-06-13_slow-burn-private-world-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
